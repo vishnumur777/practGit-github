@@ -1,0 +1,4 @@
+	git init -> init git in folder
+	 "   status -> check whether given file is uploaded on git
+	 "   add . -> add all files in a folder
+	 "   commit "statement
