@@ -2,3 +2,5 @@
 	 "   status -> check whether given file is uploaded on git
 	 "   add . -> add all files in a folder
 	 "   commit "statement
+	 "   remote orgin url - connect repo url on git
+	 "   remote -v  -list all url connect to directory
